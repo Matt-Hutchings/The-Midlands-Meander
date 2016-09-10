@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The Midlands Meander</string>
+
+    <string name="place_info">Charming, traditional farm cottages. With access to all the facilities of The Bend Country House. Great views of mountains and river. Fully equipped with DStv, braai facilities, linen.</string>
+    <string name="opening_hours_the_bend"> 8am - 8pm</string>
+    <string name="contact_number_the_bend">082 454 1311</string>
+    <string name="navigation_the_bend">Click here to navigate</string>
+    <string name="checkin">Checkin</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_dashboard"
+            android:title="Home" />
+    </group>
+
+    <item android:title="Information">
+        <menu>
+            <item
+                android:id="@+id/nav_the_wetlands"
+                android:icon="@drawable/ic_event"
+                android:title="The Wetlands" />
+            <item
+                android:id="@+id/nav_the_mistbelt_forests"
+                android:icon="@drawable/ic_event"
+                android:title="The Mistbelt Forests" />
+            <item
+                android:id="@+id/nav_the_grasslands"
+                android:icon="@drawable/ic_event"
+                android:title="The Grasslands" />
+        </menu>
+    </item>
+
+    <item android:title="Quick Go To">
+        <menu>
+            <item
+                android:id="@+id/nav_accommodation"
+                android:icon="@drawable/ic_event"
+                android:title="Accommodation" />
+            <item
+                android:id="@+id/nav_cuisine"
+                android:icon="@drawable/ic_forum"
+                android:title="Cuisine" />
+            <item
+                android:id="@+id/nav_leisure_activites"
+                android:icon="@drawable/ic_forum"
+                android:title="Leisure &amp; Activites" />
+            <item
+                android:id="@+id/nav_agri_tourism"
+                android:icon="@drawable/ic_forum"
+                android:title="Agri-tourism" />
+            <item
+                android:id="@+id/nav_education"
+                android:icon="@drawable/ic_forum"
+                android:title="Education" />
+            <item
+                android:id="@+id/nav_arts_crafts_decor"
+                android:icon="@drawable/ic_forum"
+                android:title="Arts, Crafts &amp; DeCor" />
+            <item
+                android:id="@+id/nav_selective_shopping"
+                android:icon="@drawable/ic_forum"
+                android:title="Selective Shopping" />
+            <item
+                android:id="@+id/nav_for_children"
+                android:icon="@drawable/ic_forum"
+                android:title="For Children" />
+        </menu>
+    </item>
+
+    <item android:title="Midlands Animals">
+        <menu>
+            <item
+                android:id="@+id/nav_midlands_birding_checklist"
+                android:icon="@drawable/ic_dashboard"
+                android:title="Midlands Birding Checklist" />
+            <item
+                android:id="@+id/nav_midlands_mammals_checklist"
+                android:icon="@drawable/ic_dashboard"
+                android:title="Midlands Mammals Checklist" />
+        </menu>
+    </item>
+
+
+
+</menu>
